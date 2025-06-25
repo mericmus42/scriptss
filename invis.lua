@@ -1,4 +1,4 @@
-print(Script made by mericmus42)
+
 local key = Enum.KeyCode.X -- key to toggle invisibility
 
 --// don't edit script below
