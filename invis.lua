@@ -1,4 +1,3 @@
-
 local key = Enum.KeyCode.X -- key to toggle invisibility
 
 --// don't edit script below
